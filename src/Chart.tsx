@@ -10,7 +10,6 @@ import {
   Legend,
 } from "recharts";
 import data from "./sample_data.json";
-import { blue } from "@material-ui/core/colors";
 const Chart = () => (
   <div
     style={{
